@@ -1,0 +1,147 @@
+MASTER LNG SALE AND PURCHASE AGREEMENT
+Standard Form — DES (Delivered Ex-Ship) 2019 Edition
+Based on BP Standard Form MSPA and industry standard terms
+
+Between: [Buyer] and [Seller]
+Date: [Execution Date]
+
+CLAUSE 1 — DEFINITIONS
+
+1.1 "Allowed Laytime" means the period of time agreed for loading or
+unloading operations as specified in the relevant Confirmation Notice,
+being 36 hours for loading and 24 hours for unloading.
+
+1.2 "Bill of Lading Date" means the date of the bill of lading issued
+in respect of each LNG Cargo at the Loading Port.
+
+1.3 "Confirmation Notice" means a written notice issued by either Party
+confirming the commercial terms of an individual LNG transaction
+including cargo quantity, price, delivery window, and demurrage rate.
+
+1.4 "Demurrage Rate" means the rate payable for excess time used beyond
+Allowed Laytime, expressed in USD per 24-hour period as specified in
+each Confirmation Notice.
+
+1.5 "Notice of Readiness" or "NOR" means the written notice tendered
+by the master of the LNG Ship upon arrival at the Loading Port or
+Discharge Port indicating the vessel is ready to load or discharge.
+
+1.6 "LNG Ship" means the vessel nominated by Buyer for the purpose
+of loading and transporting LNG Cargo under each Transaction.
+
+1.7 "Completion of Loading" means the moment when the LNG Ship's
+manifold is disconnected from the Loading Terminal's loading arm
+following completion of loading operations.
+
+CLAUSE 7 — LOADING, UNLOADING AND LAYTIME
+
+7.1 Notice of Readiness shall be tendered by the LNG Ship master upon
+arrival at the Loading Port whether in berth or not, in port or not,
+in free pratique or not, and whether customs cleared or not.
+
+7.2 Laytime shall commence upon the earlier of:
+(a) six (6) hours after a valid NOR has been tendered; or
+(b) when the LNG Ship is all fast at the loading berth and
+the Loading Terminal has confirmed readiness to load.
+
+7.3 The Allowed Laytime for loading operations shall be thirty-six (36)
+hours from commencement of Laytime unless otherwise specified in the
+applicable Confirmation Notice.
+
+7.4 Time shall not count against Laytime or Demurrage when delay is
+caused solely by:
+(a) breakdown of the Loading Terminal's equipment;
+(b) industrial action affecting the Loading Terminal; or
+(c) force majeure events as defined in Clause 14.
+
+7.5 Despatch shall be payable by Seller at fifty percent (50%) of the
+applicable Demurrage Rate for all time saved if loading is completed
+before the expiry of the Allowed Laytime.
+
+CLAUSE 7.18 — DEMURRAGE
+
+7.18(a) If the total time used for loading exceeds the Allowed Laytime,
+Demurrage shall be payable by Buyer to Seller at the Demurrage Rate
+specified in the applicable Confirmation Notice, which shall not be
+less than USD 25,000 per 24-hour period, prorated for any partial
+24-hour period. Each begun hour shall be fully paid.
+
+7.18(b) Claims for Demurrage under this Clause 7.18 shall only be
+payable if received by the other Party within sixty (60) Days
+following Completion of Loading of the relevant LNG Cargo.
+Claims submitted after this period shall be deemed waived.
+
+7.18(c) Demurrage claims shall be supported by the following documents:
+(i) Notice of Readiness;
+(ii) Statement of Facts signed by the Terminal operator;
+(iii) Vessel's protest if applicable;
+(iv) Bill of Lading.
+
+CLAUSE 9 — PRICING AND INVOICING
+
+9.1 The Contract Sales Price for each LNG Cargo shall be determined
+by reference to the Japan Korea Marker (JKM) as published by
+S&P Global Platts for the relevant delivery month, plus or minus
+the agreed differential as specified in the applicable
+Confirmation Notice.
+
+9.2 Provisional invoices shall be issued within five (5) Business Days
+of the Bill of Lading Date based on the nominated cargo quantity
+and the estimated price. Final invoices shall be issued within
+thirty (30) Days of the relevant price determination date.
+
+9.3 Payment of all invoices shall be made in USD by wire transfer
+to the bank account notified by the receiving Party, within
+five (5) Business Days of receipt of a valid invoice.
+
+CLAUSE 10 — LNG QUALITY
+
+10.1 The LNG delivered under this Agreement shall conform to the
+following specifications:
+(a) Gross Calorific Value: not less than 1,000 BTU per standard
+cubic foot and not more than 1,150 BTU per standard cubic foot;
+(b) Methane content: not less than 85.0 mol%;
+(c) Hydrogen Sulphide: not more than 0.25 grains per 100 scf;
+(d) Temperature at delivery: not warmer than minus 157 degrees Celsius.
+
+CLAUSE 14 — FORCE MAJEURE
+
+14.1 Neither Party shall be liable to the other for failure to perform
+any obligation under this Agreement to the extent that such failure
+is caused by a Force Majeure Event. A Force Majeure Event means any
+event or circumstance beyond the reasonable control of the affected
+Party, including but not limited to:
+(a) acts of God, flood, drought, earthquake, or other natural disaster;
+(b) epidemic or pandemic declared by the World Health Organization;
+(c) war, armed conflict, terrorist attack, or civil war;
+(d) riot, civil commotion, or industrial dispute not involving
+the affected Party's own employees;
+(e) government action, sanctions, or embargo;
+(f) nuclear, chemical, or biological contamination.
+
+14.2 The Party claiming Force Majeure shall:
+(a) notify the other Party in writing within forty-eight (48) hours
+of the occurrence of the Force Majeure Event;
+(b) provide reasonable evidence of the Force Majeure Event within
+seven (7) Days of the initial notification;
+(c) use all reasonable endeavours to overcome or mitigate the
+effects of the Force Majeure Event.
+
+14.3 If a Force Majeure Event continues for a period exceeding ninety
+(90) consecutive Days, either Party may terminate the affected
+Transaction by giving not less than thirty (30) Days written notice.
+
+CLAUSE 21 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+21.1 This Agreement and any Transaction hereunder shall be governed
+by and construed in accordance with English law.
+
+21.2 Any dispute arising out of or in connection with this Agreement
+shall be finally resolved by arbitration under the Rules of the
+London Court of International Arbitration (LCIA).
+
+Source: Based on BP Standard Form Master LNG Sale and Purchase
+Agreement 2019 Edition and industry standard MSPA terms.
+Public reference: bp.com/content/dam/bp/business-sites/en/global/
+bp-supply-trading-and-shipping/documents/bp-master-ex-ship-lng-sale-
+and-purchase-agreement-2019-edition.pdf
